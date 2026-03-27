@@ -37,7 +37,7 @@ Este proyecto ha sido desarrollado utilizando tecnologías de vanguardia para as
 
     🐘 PostgreSQL: Una base de datos relacional potente y confiable para la gestión segura de los datos.
 
-    📦 Maven: Herramienta de gestión de dependencias y construcción.
+    📦 Gradle
 
     🛡️ Spring Security: Para una gestión de usuarios y roles segura y granular.
 
@@ -49,4 +49,3 @@ Antes de comenzar, asegúrate de tener instalado:
 
     PostgreSQL (Servidor en ejecución).
 
-    Maven (Instalado y configurado en el PATH).
